@@ -1,0 +1,20 @@
+Exemplo:
+
+Nif, Nome, Tipo de fatura, Numero de fatura, Data de emissão (DD/MM/AAAA), Setor de actividade*, Total, Taxa
+
+-----------------------------------------------------------------------------------
+*//Os sectores de actividade é registado por um algarismo:
+
+
+
+
+1----Manutenção e reparação de veículos automóveis;
+
+2----Manutenção e reparação de motociclos, de suas peças e acessórios;
+
+3----Alojamento, restauração e similares;
+
+4----Atividade de salões de cabeleireiro e institutos de beleza;
+
+
+*//
